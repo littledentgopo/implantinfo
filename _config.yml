@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Implant Info
+title: Implant World
 locale: en_US
-description: 
+description: Informatii despre implanturi dentare
 logo: site-logo.png
 search: true
 url: http://www.implantinfo.ro
