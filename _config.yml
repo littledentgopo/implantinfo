@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Dr. Marcu Sela
+  name: Dr. Marcu Selaru
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
