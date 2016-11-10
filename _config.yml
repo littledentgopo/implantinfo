@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Implant Info
 locale: en_US
-description: Describe your website here.
+description: 
 logo: site-logo.png
 search: true
-url: https://littledentgopo.github.io/implantinfo/
+url: http://www.implantinfo.ro
 
 # Jekyll configuration
 
