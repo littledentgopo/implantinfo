@@ -10,7 +10,7 @@ image:
 date: 2015-10-03T08:08:50-04:00
 ---
 
-Cât timp durează un implant dentar? Este posibil să fi auzit ca durata de viata a unui implant dentar este de 25 de ani sau mai mult, ceea ce este adevărat, atâta timp cât aveți grijă corespunzătoare de ele. Cu toate acestea, duratea implanturi dentare este intotdeauna influențată semnificativ de o varietate de factori.
+Cât timp durează un implant dentar? Este posibil să fi auzit ca durata de viata a unui implant dentar este de 25 de ani sau mai mult, ceea ce este adevărat, atâta timp cât aveți grijă corespunzătoare de ele. Cu toate acestea, durata implanturi dentare este intotdeauna influențată semnificativ de o varietate de factori.
 
 ## Factori care influenteaza rezistenta implanturilor
 

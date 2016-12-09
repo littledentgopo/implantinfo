@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-08-12T08:08:50-04:00
+date: 2016-11-11T09:08:50-04:00
 ---
 
 Implanturile dentare sunt una dintre cele mai sigure metode de înlocuire ale dintilor pe termen lung. Din momentul in care acestea au devenit disponibile pe scară largă în anii 1980, numeroase studii științifice au demonstrat rate de succes pe 10 ani de peste 95%.
