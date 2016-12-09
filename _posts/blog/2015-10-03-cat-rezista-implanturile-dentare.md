@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: posts/cat-rezista-implantul.jpg
+  feature: posts/cat-rezista-implantul-dentar.jpg
 date: 2015-10-03T08:08:50-04:00
 ---
 
