@@ -14,15 +14,17 @@ Cât timp durează un implant dentar? Este posibil să fi auzit ca durata de via
 
 ## Factori care influenteaza rezistenta implanturilor
 
-Cât de bine ai grija de implanturi dentare (periaj si folosirea atei dentare de zi cu zi, văzând un dentist la fiecare șase luni)
-Evitând mestecat sau musca în jos pe elemente extrem de dure (sfaturi pentru stilouri, creioane) și să nu se deschidă lucrurile cu dinții
+Cât de bine ai grija de implanturi dentare?
+* periaj si folosirea atei dentare de zi cu zi
+* vizita la dentist la fiecare șase luni)
+* evita sa mesteci/musti elemente extrem de dure (stilouri, creioane) 
+* nu deschide lucrurile cu dinții
 
-Cât de priceput medicul dentist este plasarea la implantul dentar. Expert stomatologi implant dentar știu cum să evalueze progresul osteointegrării și dacă sunt sau nu osul maxilar a absorbit complet implantul (șurub de titan)
-stilul tau de viata si starea generala de sanatate
+Cât de priceput medicul dentist este plasarea la implantul dentar. 
+Expert stomatologi implant dentar știu cum să evalueze progresul osteointegrării și dacă osul maxilar a absorbit complet implantul (șurub de titan). stilul tau de viata si starea generala de sanatate
 
  
-
-Motivul principal pentru implanturile dentare nu durează o lungă perioadă de timp este lipsa de bune practici de igienă orală. Bacteriile build-up de pe suprafetele implantului dentar Promovarea inflamației (mucozită) a țesuturilor din jurul bontului și coroana. Atunci cand este lasata netratata, mucozități poate progresa în peri-implantitis, o boală gravă care cauzează inflamație și posibila pierdere suplimentară a osului. În cazul în care densitatea oaselor se deterioreaza suficient, un implant dentar ar putea pierde ancorarea acestuia și se desface.
+Motivul principal pentru implanturile dentare nu durează o lungă perioadă de timp este lipsa de bune practici de igienă orală. Bacteriile cresc de pe suprafetele implantului dentar provocand inflamația țesuturilor din jurul bontului și coroanei. Atunci cand este lasata netratata, aceasta inflamatie poate progresa în peri-implantitita, o boală gravă care poate cauza posibila pierdere suplimentară a osului. În cazul în care densitatea oaselor se deterioreaza intr-o mare masura, implantul dentar poate pierde suportul osos și se poate desprinde din os.
 
 
 
