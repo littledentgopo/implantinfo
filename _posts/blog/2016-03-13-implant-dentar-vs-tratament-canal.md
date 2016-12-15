@@ -14,7 +14,7 @@ Pentru pacienții care se intreaba care este cel mai bun mod de a trata un dinte
 
 ## Care dureaza mai mult: implantul dentar sau tratamentul de canal?
 
-Rezultatele de tratament ale analizei au fost publicate de Jurnalul International de orala si maxilo implanturi, publicația oficială a Academiei de Osteointegrare, o organizatie dedicata promovarii implanturilor dentare. Academia a publicat de asemenea, o declarație de consens elaborat de experți din mai multe discipline dentare care sprijina concluziile de comparare și subliniază importanța unor considerații specifice pacientului.
+Rezultatele analizei de tratament au fost publicate de Jurnalul International de orala si maxilo implanturi, publicația oficială a Academiei de Osteointegrare, o organizatie dedicata promovarii implanturilor dentare. Academia a publicat de asemenea, o declarație de consens elaborat de experți din mai multe discipline dentare care sprijina concluziile de comparare și subliniază importanța unor considerații specifice pacientului.
 
 Există mai multe diferențe notabile între cele două proceduri. implanturi dentare necesita extragerea dintelui urmată de mai multe interventii chirurgicale pentru a insera un post de metal în falcă și să aplice o coroană de porțelan la post. Adesea, aceste operatii pot dura trei sau vor mai multe vizite pentru a finaliza, și poate fi în timp util și costisitoare. In timpul tratamentului de canal, sursa de dureri de dinți - pulpei inflamate - este îndepărtată și interiorul dintelui este apoi curățată, umplute și sigilate. Astăzi, cele mai multe canale de rădăcină pot fi completate într-o singură vizită și sunt practic fără durere.
 
