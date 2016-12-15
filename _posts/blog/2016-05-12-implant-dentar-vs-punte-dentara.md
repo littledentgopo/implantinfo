@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implant dentar sau punte fixa?"
+title: "Implant dentar sau punte dentara?"
 modified:
 categories: blog
 excerpt:
